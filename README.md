@@ -3,16 +3,16 @@
 ## Prazos: 
 > remover esse tópico depois
 - Desenvolvimento **Backend 06/05 a 07/06**
-Camadas Persistência, Serviço e Controle
-Implementação da API REST
-Testes com Insomnia
-Entrega parcial
+  [] Camadas Persistência, Serviço e Controle
+  Implementação da API REST
+  Testes com Insomnia
+  Entrega parcial
 
 - Desenvolvimento **Frontend 10/06 a 30/06**
-Implementação da aplicação
-Integração com API
-Testes
-Entrega parcial
+  Implementação da aplicação
+  Integração com API
+  Testes
+  Entrega parcial
 
 - **Apresentação Final 01/07 a 03/07**
 Demonstração do sistema
