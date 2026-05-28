@@ -48,6 +48,7 @@ public class Ocorrencia {
     public Ocorrencia() {
     }
 
+    // QUAL DOS DOIS FICA, OU PRECISAMOS DOS DOIS CONSTRUTURES?
     public Ocorrencia(UUID id, LocalDateTime data, String descricao, TipoOcorrencia tipo,
             Usuario usuario, List<Detento> detentos) {
         this.id = id;
